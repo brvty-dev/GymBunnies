@@ -1,1 +1,1 @@
-# gym_bunnies
+# GymBunnies
